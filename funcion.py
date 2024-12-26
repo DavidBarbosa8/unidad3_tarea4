@@ -1,6 +1,6 @@
 """
 Resolver el siguiente ejercicio usando una función: 
-4. Construir una función que permita saber el porcentaje de 
+Construir una función que permita saber el porcentaje de 
 estudiantes que han aprobado un curso. Para esto, la función 
 debe recibir como parámetro la cantidad total de estudiantes del 
 curso y la cantidad de estudiantes que aprobaron el curso y con 
