@@ -18,7 +18,7 @@ contador_no_heladas = 0
 promedio = 0
 contador = 0
 
-for i in range (3):
+for i in range (20):
   temperatura = float(input (f"Digite la temperatura del dia {i+1}: "))
   promedio += temperatura
   contador += 1
